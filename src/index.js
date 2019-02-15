@@ -94,6 +94,7 @@ Carousel.defaultProps = {
 };
 
 Carousel.propTypes = {
+  responsive: PropTypes.array,
   slidesToShow: PropTypes.number,
   slidesToScroll: PropTypes.number,
   arrows: PropTypes.bool,

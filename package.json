@@ -1,6 +1,6 @@
 {
   "name": "react-panda-carousel",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A naturally fluid React DOM carousel component.",
   "main": "lib/index.js",
   "repository": "git@github.com:jtparrett/react-panda-carousel.git",
