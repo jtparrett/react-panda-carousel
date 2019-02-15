@@ -1,13 +1,13 @@
 {
   "name": "react-panda-carousel",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "A naturally fluid React DOM carousel component.",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "repository": "git@github.com:jtparrett/react-panda-carousel.git",
   "author": "jtparrett <jtparrett@me.com>",
   "license": "MIT",
   "scripts": {
-    "build": "babel src/index.js --out-file dist/index.js"
+    "build": "npx babel src --out-dir lib"
   },
   "dependencies": {
     "prop-types": "^15.7.2",
