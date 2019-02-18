@@ -1,6 +1,8 @@
 # React Panda Carousel
 A naturally fluid and responsive Carousel component for React DOM.
 
+Build with hooks, compatible with React `v16.8` and higher.
+
 ```
 import Carousel from "react-panda-carousel";
 
